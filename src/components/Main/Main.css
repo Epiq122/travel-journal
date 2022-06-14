@@ -35,7 +35,7 @@ h2 {
 }
 .blip--img {
   left: 184px;
-  top: 120px;
+  padding-right: 6px;
 }
 
 .country--name {
@@ -58,7 +58,7 @@ p {
 }
 
 .border {
-  width: 650px;
+  width: 950px;
   padding-top: 18px;
   border-bottom: 1px solid grey;
 }
